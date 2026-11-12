@@ -47,6 +47,4 @@ while True:
         break
 
     
-##print(b['a'])
-
-
+##
