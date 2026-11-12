@@ -1,4 +1,4 @@
-'''headline="contact"
+headline="contact"
 print(headline.center(72))
 print("1. add contact\n2.view all contact\n3.delete\n4.update contact\n5.exit")
 a={}
@@ -45,14 +45,6 @@ while True:
     else:
         print("exit")
         break
-
-'''
-
-
-b={'a':1,"c":2}
-##print(b.keys())
-for i in b:
-    print(i,b[i])
 
     
 ##print(b['a'])
